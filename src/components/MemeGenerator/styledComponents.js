@@ -30,7 +30,6 @@ export const MemeCont = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: lightgreen;
   padding: 20px;
   @media screen and (min-width: 768px) {
     flex-direction: row-reverse;
